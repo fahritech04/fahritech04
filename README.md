@@ -13,8 +13,8 @@
 
 Pengambangan Aplikasi Android & Multi-Platform menggunakan Kotlin dan Flutter. [Linkedin](https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/)
 
-### 🏫 school
-Indonesia Digital Technology of University -->
+<!-- ### 🏫 school -->
+Telkom University -->
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
