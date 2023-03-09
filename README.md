@@ -46,7 +46,7 @@ Telkom University -->
 
 <div align="right">
  
- ### Visit more 👇
+ <!-- ### Visit more 👇 -->
  
  <!-- <a href="https://linktr.ee/ryfazrin">
   <img src="https://img.shields.io/badge/-linktree-grey?style=flat&logo=linktree&link=https://www.linkedin.com/in/dinhanhthi/" alt="linktree" />
